@@ -1,27 +1,19 @@
-# MyDreamApp
+# Angular Core Concepts
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.18.
+Project from Scrimba Angular course. This project shows several core features of Angular including:
 
-## Development server
+* Components
+* Data Binding
+* Communication between components
+* Services
+* Routing
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<a href="https://stackblitz.com/github/DanWahlin/Angular-Core-Concepts" target="_blank">Run and edit the app on Stackblitz</a>
 
-## Code scaffolding
+## Running the Project Locally
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Install the Angular CLI
 
-## Build
+    `npm install -g @angular/cli`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. Run `ng serve -o`
